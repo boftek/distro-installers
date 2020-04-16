@@ -30,11 +30,6 @@ curl -sS https://download.spotify.com/debian/pubkey.gpg | sudo apt-key add -
 echo "deb http://repository.spotify.com stable non-free" | sudo tee /etc/apt/sources.list.d/spotify.list
 sudo apt-get update
 sudo apt-get install spotify-client
-wget https://github.com/danielchatfield/trello-desktop/releases/download/v0.1.9/Trello-linux-0.1.9.zip -O trello.zip
-sudo mkdir /opt/trello
-sudo unzip trello.zip -d /opt/trello/
-sudo ln -sf /opt/trello/Trello /usr/bin/trello
-echo -e '[Desktop Entry]\n Version=1.0\n Name=Trello\n Exec=/usr/bin/trello\n Icon=/opt/trello/resources/app/static/Icon.png\n Type=Application\n Categories=Application' | sudo tee /usr/share/applications/trello.desktop
-sudo chmod +x /usr/share/applications/trello.desktop
 
-# Updated 16.3.2020
+
+# Updated 16.4.2020
