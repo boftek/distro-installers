@@ -8,7 +8,7 @@ use the following commnads:
 For Debian based distros:
 
 ```bash
-chmod 755 dpkg.sh
+chmod 755 debian.sh
 ./debian.sh
 ```
 
