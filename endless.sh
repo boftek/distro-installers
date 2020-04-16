@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# INSTALL CORE APPS FOR philip
+# INSTALL APPS YOU WANT
 
 flatpak install flathub com.spotify.Client
 flatpak install flathub org.gimp.GIMP
@@ -10,3 +10,5 @@ flatpak install flathub com.discordapp.Discord
 flatpak install flathub com.mojang.Minecraft
 flatpak install flathub com.valvesoftware.Steam
 flatpak install flathub org.videolan.VLC
+
+# Updated 16.4.2020
