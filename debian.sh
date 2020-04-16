@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# INSTALL CORE APPS FOR philip
+# INSTALL APPS YOU WANT
 
 cd Downloads
 wget https://bit.ly/discordcore -O discord.deb
