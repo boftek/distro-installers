@@ -26,23 +26,23 @@ Ninite on a Windows computer
 ## List of apps by default
 
 ### Debian
-Minecraft
-Skype
-Discord
-Stremio
-MS Teams
-Visual Studio Code
-Steam
-Spotify
+Minecraft\
+Skype\
+Discord\
+Stremio\
+MS Teams\
+Visual Studio Code\
+Steam\
+Spotify\
 
 ### Flatpak
-Spotify
-GIMP
-Visual Studio Code
-MS Teams
-Minecraft
-Steam
-VLC
+Spotify\
+GIMP\
+Visual Studio Code\
+MS Teams\
+Minecraft\
+Steam\
+VLC\
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
