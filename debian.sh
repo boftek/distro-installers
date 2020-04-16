@@ -3,6 +3,8 @@
 # INSTALL APPS YOU WANT
 
 cd Downloads
+mkdir TEMP
+cd TEMP
 wget https://bit.ly/discordcore -O discord.deb
 wget https://launcher.mojang.com/download/Minecraft.deb -O Minecraft.deb
 wget https://go.skype.com/skypeforlinux-64.deb -O skypeforlinux-64.deb
@@ -24,7 +26,11 @@ sudo dpkg -i code.deb
 sudo apt-get -y install -f
 sudo dpkg -i steam.deb
 sudo apt-get -y install -f
+cd
+cd Downloads
+rm -rf TEMP
 
+# SPOTIFY INSTALLER
 cd
 curl -sS https://download.spotify.com/debian/pubkey.gpg | sudo apt-key add - 
 echo "deb http://repository.spotify.com stable non-free" | sudo tee /etc/apt/sources.list.d/spotify.list
