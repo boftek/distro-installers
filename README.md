@@ -9,7 +9,7 @@ For Debian based distros:
 
 ```bash
 chmod 755 dpkg.sh
-./dpkg.sh
+./debian.sh
 ```
 
 For flatpaks:
