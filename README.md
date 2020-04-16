@@ -33,7 +33,7 @@ Stremio\
 MS Teams\
 Visual Studio Code\
 Steam\
-Spotify\
+Spotify
 
 ### Flatpak
 Spotify\
@@ -42,7 +42,7 @@ Visual Studio Code\
 MS Teams\
 Minecraft\
 Steam\
-VLC\
+VLC
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
