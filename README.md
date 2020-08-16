@@ -1,6 +1,10 @@
 # DistroInstallers
 DistroInstallers are scripts to help you install programs easily
 
+### Updating
+So the current situation does not allow me to anyhow maintain those scripts.\ 
+Since the scripts are very easy to make I suggest you making the scripts by yourself or changing the existing scripts that I made and customize it your way.
+
 ## Usage
 You will need to grant the file permissions to execute and to do that,
 use the following commnads:
