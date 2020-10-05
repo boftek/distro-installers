@@ -1,7 +1,7 @@
 # Distro Installers
 ![mainteance](https://img.shields.io/maintenance/no/2020?style=flat-square)
 
-Distro Installers are simple scripts that allow you to intsall multiple apps at once.
+Distro Installers are simple scripts that allow you to install multiple apps at once.
 
 * NOTE: However when a new version of apps does release they usually are on new links so they must be updated to install the latest version
 
